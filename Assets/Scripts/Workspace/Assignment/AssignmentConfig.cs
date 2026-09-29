@@ -5,7 +5,7 @@ namespace Assignment
         /// <summary>
         /// Name of the assignment.
         /// </summary>  
-        public const string AssignmentName = "Assignment 07";
+        public const string AssignmentName = "Assignment  07";
 
         /// <summary>
         /// Description of the assignment.
